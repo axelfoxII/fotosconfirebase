@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "fotosfirebase-2c89b": {
+      "hosting": {
+        "fotosfirebase": [
+          "fotosfirebase-2c89b"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "fotosfirebase-2c89b"
+  }
+}
